@@ -159,5 +159,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/<your-username>"><strong>your-username</strong></a></p>
+<p align="center">Made with ❤️ by <a href="https://github.com/9140ayush"><strong>9140ayush</strong></a></p>
 <p align="center">© WanderLust Private Limited</p>
